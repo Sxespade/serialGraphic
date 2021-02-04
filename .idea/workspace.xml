@@ -26,7 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b330d27c-5640-4d03-ad47-0df1275cf4ee" name="Default Changelist" comment="0 commit" />
+    <list default="true" id="b330d27c-5640-4d03-ad47-0df1275cf4ee" name="Default Changelist" comment="1 commit" />
     <list id="1f1393bf-d5f5-451c-9f17-c2689ab7c608" name="1 commit" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="branch" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -88,18 +88,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SerialGraphicInteres" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Diman\AndroidStudioProjects\MyApplication33\app\src\main\res\drawable-v24" />
-      <recent name="C:\Users\Diman\AndroidStudioProjects\MyApplication33\app\src\main\res\layout" />
-      <recent name="C:\Users\Diman\AndroidStudioProjects\MyApplication33\app\src\main\java\com\example\myapplication\database" />
-      <recent name="C:\Users\Diman\AndroidStudioProjects\MyApplication33\app\src\main\java\com\example\myapplication" />
-      <recent name="C:\Users\Diman\AndroidStudioProjects\MyApplication33\app\src\main\res\drawable" />
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="com.example.myapplication" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
       <recent name="com.example.myapplication" />
@@ -109,8 +105,12 @@
       <recent name="com.example.myapplication.mvp.view" />
       <recent name="com.example.myapplication.mvp.presenter" />
     </key>
-    <key name="CreateKotlinClassDialog.RecentsKey">
-      <recent name="com.example.myapplication" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Diman\AndroidStudioProjects\MyApplication33\app\src\main\res\drawable-v24" />
+      <recent name="C:\Users\Diman\AndroidStudioProjects\MyApplication33\app\src\main\res\layout" />
+      <recent name="C:\Users\Diman\AndroidStudioProjects\MyApplication33\app\src\main\java\com\example\myapplication\database" />
+      <recent name="C:\Users\Diman\AndroidStudioProjects\MyApplication33\app\src\main\java\com\example\myapplication" />
+      <recent name="C:\Users\Diman\AndroidStudioProjects\MyApplication33\app\src\main\res\drawable" />
     </key>
   </component>
   <component name="RunManager">
@@ -205,7 +205,28 @@
       <option name="project" value="LOCAL" />
       <updated>1612436771179</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="0 commit">
+      <created>1612440796977</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612440796977</updated>
+    </task>
+    <task id="LOCAL-00004" summary="0 commit">
+      <created>1612440806532</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612440806532</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1 commit">
+      <created>1612440880527</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612440880527</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +259,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="0 commit" />
     <MESSAGE value="1 commit" />
     <option name="LAST_COMMIT_MESSAGE" value="1 commit" />
   </component>
@@ -302,10 +324,10 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="703" y="375" key="VCS.ChangelistChooser/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1612439617618" />
-    <state x="446" y="193" key="Vcs.Push.Dialog.v2" timestamp="1612438835734">
+    <state x="446" y="193" key="Vcs.Push.Dialog.v2" timestamp="1612441061408">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="446" y="193" key="Vcs.Push.Dialog.v2/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1612438835734" />
+    <state x="446" y="193" key="Vcs.Push.Dialog.v2/0.0.1707.920/2560.0.1920.1040@0.0.1707.920" timestamp="1612441061408" />
     <state x="665" y="238" key="chooseDestDirectoryDialog" timestamp="1612265579710">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
